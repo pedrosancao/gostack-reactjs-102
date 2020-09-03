@@ -6,6 +6,8 @@
 
 Challenge for React second module on Rocketseat's GoStack Online Bootcamp.
 
+The layout for this application is [available on Figma][layout].
+
 This is a sample project to store and list transactions and compute balance using
 PostgreSQL database and are related to:
 
@@ -26,4 +28,5 @@ Challenge page: ["Desafio 07: GoFinances Web"][challenge].
 This project is released under MIT License. See [LICENSE](LICENSE) file.
 
 [master-replace]: https://www.bbc.com/news/technology-53050955
+[layout]: https://www.figma.com/file/EgOhyj1Inz14dhWGVhRlhr/GoFinances?node-id=1%3A863
 [challenge]: https://github.com/rocketseat-education/bootcamp-gostack-desafios/tree/master/desafio-fundamentos-reactjs
